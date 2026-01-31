@@ -1,0 +1,60 @@
+A. Existing window AC system (core machine)
+
+1. Compressor
+2. Condenser coil
+3. Evaporator coil
+4. Expansion device (capillary tube)
+5. Refrigerant charge
+6. Compressor run capacitor
+7. Compressor overload protector
+8. Outdoor fan motor
+9. Indoor blower motor
+
+Existing AC parts = 9
+
+B. Parts you add (full Rev-2 capability)
+10. Arduino Mega 2560
+11. ESP32 (Wi-Fi / ML bridge)
+12. USB programming cable
+13. DS18B20 – compressor temp
+14. DS18B20 – evaporator temp
+15. DS18B20 / DHT22 – room temp
+16. DS18B20 – discharge line (optional)
+17. Pull-up resistor (4.7 kΩ)
+18. Smart power-monitoring plug
+19. CT current sensor
+20. Voltage divider module
+21. Relay module
+22. Solid-state relay
+23. HVAC contactor
+24. 5 V power supply
+25. Buck converter
+26. Inline fuse + holder
+27. Breadboard
+28. Jumper wires (M–M)
+29. Jumper wires (M–F)
+30. Hook-up wire roll
+31. Terminal blocks
+32. Heat-shrink tubing
+33. Cable ties
+34. Status LEDs
+35. LED resistors
+36. Push button
+37. OLED display
+38. Project enclosure
+39. Cable glands
+40. Mounting standoffs
+41. Thermal / aluminum tape
+42. Opto-isolated relay board
+43. Kill switch
+44. Grounding wire + lugs
+45. Labeling tape
+46. Multimeter
+47. Wire stripper
+48. Screwdriver set
+49. Soldering iron
+50. Logic Level Shifter
+51. ZMPT101B AC Voltage Sensor (replaces Voltage Divider)
+"52. RC Snubbers (x2 - one for fan, one for compressor)"
+53. Fan Run Capacitor (Verify if needed)
+54. Mega Screw Terminal Shield
